@@ -10,4 +10,4 @@ import models
 import unittest
 from datetime import datetime
 from time import sleep
-from models.state import
+from models.state import State
